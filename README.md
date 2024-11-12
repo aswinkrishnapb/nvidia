@@ -18,6 +18,6 @@ This tool is a shell script designed to streamline the installation of NVIDIA GP
 Simply run the script and select from the menu to complete either the initial setup or NVIDIA driver installation and configuration. Ideal for cybersecurity professionals and enthusiasts working on GPU-accelerated tasks in Kali Linux.
 
 `sudo chmod 755 nvidia-installer.sh`
-\n
+
 `sudo bash nvidia-installer.sh`
 
